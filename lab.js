@@ -385,7 +385,7 @@ class Vehicle {
   Create a vehicle using your new class and save it to a variable called myFirstVehicle
 */
 
-const myFirstVehicle = 
+
 
 
 /* 
